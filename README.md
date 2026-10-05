@@ -39,6 +39,6 @@ As part of the “Interaction Design” course, our team worked through the comp
 
 ---
 
-## 📄 Documentation
+## 📸 Screenshots
 
-The project documentation, including screenshots, is available in the `docs` folder.
+Screenshots are available in the docs/screenshots folder.
