@@ -1,7 +1,7 @@
 # SecuArt — UI/UX Design Project
 
 **Semester project for the “Interaction Design” course**  
-Hochschule RheinMain | Summer Semester 2025
+University of Applied Science RheinMain | Summer Semester 2025
 
 ---
 
@@ -39,6 +39,6 @@ As part of the “Interaction Design” course, our team worked through the comp
 
 ---
 
-## 📸 Screenshots
+## 📄 Documentation
 
-Screenshots are available in the `docs/screenshots` folder.
+The project documentation, including screenshots, is available in the `docs` folder.
