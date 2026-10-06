@@ -39,6 +39,10 @@ As part of the “Interaction Design” course, our team worked through the comp
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots & Documentation
 
-Screenshots are available in the docs/screenshots folder.
+Desktop and mobile screen designs and wireframes are available
+in the [screenshots](screenshots) folder.
+
+The complete project documentation is available in
+[SecuArt_Dokumentation.pdf](docs/SecuArt_Dokumentation.pdf).
